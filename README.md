@@ -2,7 +2,7 @@
 
 - 😄 I'm 21 years old
 - 🌱 I am currently studying at the Federal University of São Paulo (UNIFESP)- São José dos Campos, Brazil
-- 👯 Currently studying science and technology for the last year to do Computer Science
+- 👯 Currently studying Science and Technology for the last year to do Computer Science
 - ⚡ Fun fact: I was 1st place Cuco 2020 (USP Knowledge Contest)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinn7&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinn7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
